@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Upadhyay</h1>
-<h3 align="center">A passionate Fullstack developer from India.</h3>
+<h3 align="center">A Passionate Fullstack developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sachinupad24473" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sachinupad24473?logo=twitter&style=for-the-badge" alt="https://twitter.com/sachinupad24473" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/sachinupad24473" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sachinupad24473?logo=twitter&style=for-the-badge" alt="sachinupad24473" /></a> </p>
 
 - 🔭 I’m currently working on [Study Notion](https://github.com/sachinupadhyay268/Study-Notion)
 
