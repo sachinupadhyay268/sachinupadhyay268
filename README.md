@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **JavaScript, React,Node.js, and any general software development questions.**
+- 💬 Ask me about **JavaScript, Reactjs,Node.js, and any general software development questions.**
 
 - 📫 How to reach me **sachinupadhyay268@gmail.com**
 
