@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Study Notion](https://github.com/sachinupadhyay268/Study-Notion)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **webRTC**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
