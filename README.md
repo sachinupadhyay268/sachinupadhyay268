@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Upadhyay</h1>
-<h3 align="center">A Passionate Fullstack developer from India.</h3>
+<h3 align="center">A Passionate MERN from India.</h3>
 
 - 🔭 I’m currently working on [Study Notion](https://github.com/sachinupadhyay268/Study-Notion)
 
